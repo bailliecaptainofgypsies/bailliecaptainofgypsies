@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bailliecaptainofgypsies
 - 👀 I’m interested in develpment of video games
-- 🌱 I’m currently learning Web Design at studi.fr for which I was selected to follow a graduate.
-- 💞️ I’m looking to collaborate on video games project...
 - 📫 How to reach me network.jeremy@gmail.com...
 
 <!---
