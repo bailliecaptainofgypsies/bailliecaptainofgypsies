@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bailliecaptainofgypsies
+- 👋 Hi, I’m @bellyjeremy
 - 👀 I’m interested in develpment of video games
 - 📫 How to reach me network.jeremy@gmail.com...
 
